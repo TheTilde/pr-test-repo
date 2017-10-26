@@ -14,6 +14,6 @@
 
 # bruno
 - typo 1
-- typo 2
+- typology 2
 - typo 3
 - typo 4
