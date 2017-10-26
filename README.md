@@ -13,7 +13,7 @@
 - typo 4
 
 # bruno
-- typo 1
-- typo 2
+- typoo 1
+- typoo 2
 - typo 3
 - typo 4
